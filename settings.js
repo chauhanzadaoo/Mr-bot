@@ -12,15 +12,15 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.ownernomer = "94773010580"
-global.ownername = "Fenix"
-global.ytname = "YT: Fenix_Programmer "
+global.ownernomer = "923431962180"
+global.ownername = "𝐒𝐇𝐄𝐇𝐙𝐀𝐃𝐀 👀🩵🍇"
+global.ytname = "YT: 𝐒𝐇𝐄𝐇𝐙𝐀𝐃𝐀 👀🩵🍇 "
 global.socialm = "GitHub: Fenix-server"
 global.location = "srilanka, colombo, colombo"
 
-global.ownernumber = '94773010580'  //creator number
-global.ownername = 'FENIX' //owner name
-global.botname = 'FENIX ID V17' //name of the bot
+global.ownernumber = '923431962180'  //creator number
+global.ownername = '𝐒𝐇𝐄𝐇𝐙𝐀𝐃𝐀 👀🩵🍇' //owner name
+global.botname = '𝐒𝐇𝐄𝐇𝐙𝐀𝐃𝐀 👀🩵🍇' //name of the bot
 
 global.packname = 'V17'
 global.author = 'ꜰᴇɴɪx ɪᴅ ꜱᴇʀᴠᴇʀ : 🌍'
@@ -28,7 +28,7 @@ global.author = 'ꜰᴇɴɪx ɪᴅ ꜱᴇʀᴠᴇʀ : 🌍'
 global.themeemoji = '🪀'
 global.wm = "Its Fuck.inc."
 
-global.link = 'https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w'
+global.link = 'https://whatsapp.com/channel/0029VabK6Od7YSd0B4SZEa3e'
 
 
 global.prefa = ['','!','.','#','&']
